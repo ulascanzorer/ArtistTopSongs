@@ -9,7 +9,11 @@ SPOTIFY_CLIENT_SECRET=YOUR_SPOTIFY_SECRET
 ```
 To access YOUR_SPOTIFY_ID and YOUR_SPOTIFY_SECRET simply create an application on the Spotify Api website and copy the values that you find there after creating your application.
 
-After that, run:
+After that, run this to install the dependencies:
+```
+npm install
+```
+and finally to launch the app:
 ```
 node server.js
 ```
